@@ -99,6 +99,7 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="PRINCIPAL.master" />
+    <Content Include="CAPTURAS_MANUAL_PROGII.pdf" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -107,6 +108,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="bd_lucha.sql" />
     <Content Include="Detalles.aspx" />
     <Content Include="Factura.aspx" />
     <Content Include="index.aspx" />
